@@ -1,0 +1,14 @@
+a.perso:hover{
+	background-color:darkblue;
+	color:#fff;
+	
+}
+
+.navbar{
+display: flex;
+
+}
+
+.navbar-collapse{
+display: flex;
+}
