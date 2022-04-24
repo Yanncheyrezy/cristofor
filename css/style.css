@@ -306,7 +306,7 @@ a.nav-link {
 
   /*Fin bloc formulaire JS */
 
-  @media (max-width:575px){
+  @media all and (max-width:575px){
     .navfooter {
         display: flex;
         flex-direction: column;
@@ -326,7 +326,7 @@ a.nav-link {
     }
   }
 
-  @media (max-width:768px){
+  @media all and (max-width:768px){
     .titre h1{
         font-size:1.5em;
         text-align: center;
